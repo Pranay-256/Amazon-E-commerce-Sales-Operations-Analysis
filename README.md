@@ -369,3 +369,9 @@ SQLite • Power BI**
 -   [ ] Dashboard development
 -   [ ] Interactive analysis
 -   [ ] Final insights & documentation
+
+## Author
+
+**Pranay Jha**
+
+Data Analytics & Business Intelligence
