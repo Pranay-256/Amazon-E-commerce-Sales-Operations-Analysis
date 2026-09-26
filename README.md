@@ -41,26 +41,17 @@ Power BI Dashboard (Part 2)
 
 ## Tech Stack
 
-  Technology                          Purpose
-  ----------------------------------- -----------------------------------
-  **PostgreSQL / SQL**                Database, EDA, cleaning and
-                                      business analysis
+## Tech Stack
 
-  **Python**                          ETL and data transformation
-
-  **Pandas**                          Data cleaning, merging, date
-                                      handling and dimensional modeling
-
-  **SQLite**                          Lightweight database used in the
-                                      Python ingestion workflow
-
-  **SQLAlchemy**                      Python-database connectivity
-
-  **Power BI**                        Final visualization and BI
-                                      dashboard --- Part 2
+| Technology | Purpose |
+|---|---|
+| **PostgreSQL / SQL** | Database creation, EDA, data cleaning and business analysis |
+| **Python** | ETL and data transformation |
+| **Pandas** | Data cleaning, merging, date handling and dimensional modeling |
+| **SQLite** | Lightweight database used in the Python ingestion workflow |
+| **SQLAlchemy** | Python-to-database connectivity |
+| **Power BI** | Final visualization and BI dashboard — Part 2 |
   -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 ## 1. Database Design & EDA
 
@@ -204,9 +195,10 @@ DimDate ──────── FactSales ──────── DimProduct
 DimDate ─────── FactInventory ───── DimWarehouse
 ```
 
+```markdown
 ### Generated Tables
 
-``` text
+```text
 data/
 └── powerbi datasets/
     ├── dim_customers.csv
@@ -216,7 +208,6 @@ data/
     ├── dim_warehouse.csv
     ├── fact_inventory.csv
     └── fact_sales.csv
-```
 
 The date dimension uses a continuous date range and supports time-based
 analysis in Power BI.
