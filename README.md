@@ -347,13 +347,7 @@ Planned work:
 -   Slicers and interactive filtering
 -   Final dashboard design
 
-Power BI screenshots will be added to the repository in Part 2, for
-example:
-
-``` markdown
-![Dashboard Image 1](Images/image%201.png)
-![Dashboard Image 2](Images/image%202.png)
-```
+Power BI screenshots will be added to the repository in Part 2
 
 ------------------------------------------------------------------------
 
