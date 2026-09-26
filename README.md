@@ -41,7 +41,6 @@ Power BI Dashboard (Part 2)
 
 ## Tech Stack
 
-  -----------------------------------------------------------------------
   Technology                          Purpose
   ----------------------------------- -----------------------------------
   **PostgreSQL / SQL**                Database, EDA, cleaning and
