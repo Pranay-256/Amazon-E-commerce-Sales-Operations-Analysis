@@ -195,7 +195,6 @@ DimDate ──────── FactSales ──────── DimProduct
 DimDate ─────── FactInventory ───── DimWarehouse
 ```
 
-```markdown
 ### Generated Tables
 
 ```text
