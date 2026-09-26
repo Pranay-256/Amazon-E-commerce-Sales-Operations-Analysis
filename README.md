@@ -210,7 +210,7 @@ data/
 
 The date dimension uses a continuous date range and supports time-based
 analysis in Power BI.
-
+```
 ------------------------------------------------------------------------
 
 ## 5. Repository Structure
