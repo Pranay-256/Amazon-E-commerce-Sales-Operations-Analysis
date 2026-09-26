@@ -1,0 +1,751 @@
+product_id,product_name,price,cogs,category_id,category_name
+205,H&M Bomber Jacket,203.34,121.15,2,clothing
+629,Nerf Action Figure,198.54,100.06,5,Toys & Games
+143,HP Webcam 1080p V2,3554.71,1453.03,1,electronics
+561,Frisco Dry Dog Food 30lb Bag,0.0,61.13,4,Pet Supplies
+503,Frisco Retractable Dog Leash,152.47,59.04,4,Pet Supplies
+64,Samsung Mechanical Keyboard,3403.99,2026.33,1,electronics
+511,Chewy Aquarium Filter Cartridge,184.51,90.36,4,Pet Supplies
+220,Adidas Polo Shirt,61.61,35.28,2,clothing
+267,  Zara Track Pants  ,116.2,64.42,2,clothing
+252,Gap Track Pants Mini,37.48,14.37,2,clothing
+102,Anker Mirrorless Camera,398.45,215.85,1,electronics
+422,Instant Pot Non-Stick Cookware Set (10-Piece),111.41,59.58,3,home & kitchen
+458,Pyrex 2-Slice Toaster,230.86,0.0,3,home & kitchen
+141,Anker Gaming Console,2601.82,1347.54,1,electronics
+611,Barbie Action Figure,81.05,42.56,5,Toys & Games
+368,Pyrex Cordless Vacuum Cleaner,510.64,192.74,3,home & kitchen
+114,JBL External SSD 1TB,1731.9,1123.69,1,electronics
+129,HP Bluetooth Speaker,3943.37,2045.7,1,electronics
+616,Barbie Building Bricks Set,211.57,116.54,5,Toys & Games
+31,Beats USB-C Charger 65W Max,2437.35,1191.21,1,electronics
+367,iRobot Toaster Oven,652.94,369.94,3,home & kitchen
+84,hp wi-fi router,3195.54,1815.18,1,electronics
+382,Black+Decker Non-Stick Cookware Set (10-Piece) (2023),304.82,195.71,3,home & kitchen
+636,Crayola Action Figure,261.3,96.96,5,Toys & Games
+683,Yeti Sleeping Bag (0 Degree),473.02,290.61,6,Sports & Outdoors
+485,Blue Buffalo Flea & Tick Treatment Max,101.15,55.16,4,Pet Supplies
+361,Ninja Food Processor,830.77,495.55,3,home & kitchen
+236,Levi's Slim Fit Jeans,95.55,40.79,2,clothing
+13,Beats Over-Ear Headphones,349.61,216.62,1,electronics
+204,Under Armour Running Sneakers,34.18,20.37,2,clothing
+108,Google External SSD 1TB,4157.03,1373.2,1,electronics
+272,Reebok Slim Fit Jeans,104.31,55.01,2,clothing
+260,Gap Winter Parka Max - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,222.35,91.27,2,clothing
+146,Beats Webcam 1080p,2765.29,1200.84,1,electronics
+584,Nerf Fashion Doll,61.78,36.35,5,Toys & Games
+161,Logitech Tablet,4356.77,2252.01,1,electronics
+489,Hill's Automatic Pet Feeder,179.55,62.42,4,Pet Supplies
+606,Melissa & Doug Ride-On Toy (2023),25.9,28.39,5,Toys & Games
+545,Frisco Retractable Dog Leash V2,183.48,61.48,4,Pet Supplies
+661,"VTech Educational Learning Tablet, Newly Upgraded 2024 Model with Enhanced Durability, Improved Battery Life, and Faster Performance",52.91,16.65,5,Toys & Games
+276,Adidas Denim Jacket,141.09,56.67,2,clothing
+556,Kong Bird Cage Plus,55.68,32.75,4,Pet Supplies
+560,Blue Buffalo Aquarium Filter Cartridge,130.36,51.39,4,Pet Supplies
+354,KitchenAid 2-Slice Toaster,736.04,409.26,3,home & kitchen
+691,Nike Folding Camping Chair,21.76,12.01,6,Sports & Outdoors
+398,Cuisinart Countertop Blender,276.77,158.85,3,home & kitchen
+149,Google Wireless Mouse,3306.49,1993.29,1,electronics
+311,Champion Running Sneakers,129.43,66.53,2,clothing
+124,Lenovo 4K Smart TV 55-inch,1143.91,552.39,1,electronics
+599,Hot Wheels Fashion Doll,7.34,2.56,5,Toys & Games
+646,Crayola Building Block Set Plus,316.95,163.16,5,Toys & Games
+139,JBL Mirrorless Camera,2285.02,937.04,1,electronics
+428,Dyson Air Fryer,441.29,162.52,3,home & kitchen
+544,PetSafe Dry Dog Food 30lb Bag,101.66,45.43,4,Pet Supplies
+274,Puma Baseball Cap,156.06,84.72,2,clothing
+742,REI Co-op Hard Cooler 45qt,0.0,145.48,6,Sports & Outdoors
+462,iRobot Stand Mixer,127.45,76.63,3,home & kitchen
+92,HP Wireless Earbuds,3994.74,2210.94,1,electronics
+193,"Ralph Lauren Wool Sweater, Newly Upgraded 2024 Model with Enhanced Durability, Improved Battery Life, and Faster Performance",80.98,42.53,2,clothing
+315,Under Armour Ankle Socks (3-Pack),175.03,82.47,2,clothing
+375,"Breville Knife Set (15-Piece) Pro, Newly Upgraded 2024 Model with Enhanced Durability, Improved Battery Life, and Faster Performance",415.84,0.0,3,home & kitchen
+131,Beats Laptop Pro,2983.31,1755.63,1,electronics
+35,Lenovo Wi-Fi Router Pro,1264.03,787.67,1,electronics
+461,KitchenAid Knife Set (15-Piece),454.62,230.89,3,home & kitchen
+275,Calvin Klein Summer Dress 3rd Gen,225.47,102.77,2,clothing
+264,H&M Athletic Shorts,231.67,0.0,2,clothing
+38,Apple Tablet,1340.7,770.13,1,electronics
+592,Crayola Wooden Play Kitchen Set,148.9,0.0,5,Toys & Games
+373,Dyson Non-Stick Cookware Set (10-Piece),581.2,186.31,3,home & kitchen
+63,Microsoft Monitor 27-inch,2004.35,796.75,1,electronics
+558,Chewy Bird Cage,113.56,47.97,4,Pet Supplies
+700,Spalding Golf Club Set,474.11,265.26,6,Sports & Outdoors
+23,Sony Gaming Console,4594.09,2341.29,1,electronics
+454,Pyrex Electric Kettle Pro,612.64,198.46,3,home & kitchen
+335,Keurig Electric Kettle,847.16,363.13,3,home & kitchen
+142,HP Wi-Fi Router,2755.1,1721.07,1,electronics
+433,iRobot Air Fryer,204.49,91.78,3,home & kitchen
+649,Hasbro Building Bricks Set,229.42,94.55,5,Toys & Games
+104,  Logitech Over-Ear Headphones  ,1865.43,889.97,1,electronics
+663,VTech Educational Learning Tablet,298.59,104.46,5,Toys & Games
+302,Zara Bomber Jacket 3rd Gen,200.36,83.89,2,clothing
+450,Cuisinart Air Fryer,632.49,241.58,3,home & kitchen
+21,GOOGLE MECHANICAL KEYBOARD,2548.24,859.38,1,electronics
+392,Hamilton Beach 2-Slice Toaster,147.3,64.28,3,home & kitchen
+42,Beats Noise Cancelling Headphones,418.95,152.93,1,electronics
+301,Ralph Lauren Ankle Socks (3-Pack) XL,141.06,83.06,2,clothing
+453,Cuisinart Toaster Oven (2023),727.29,244.46,3,home & kitchen
+400,Dyson Drip Coffee Maker 2nd Gen,305.66,158.05,3,home & kitchen
+609,Crayola Play-Doh Set XL,216.06,65.7,5,Toys & Games
+377,iRobot Food Processor,456.96,248.7,3,home & kitchen
+10,Sony Portable Power Bank 20000mAh,3515.06,1895.47,1,electronics
+173,Lenovo Noise Cancelling Headphones,1299.7,765.06,1,electronics
+499,Purina Automatic Pet Feeder (2024),175.95,187.17,4,Pet Supplies
+607,LEGO Card Game,121.04,58.47,5,Toys & Games
+568,Chewy Cat Litter Box,138.43,73.28,4,Pet Supplies
+442,Dyson Countertop Blender,92.84,44.61,3,home & kitchen
+570,Nylabone Automatic Pet Feeder Max,131.96,69.07,4,Pet Supplies
+15,Sony Mechanical Keyboard XL,3740.12,0.0,1,electronics
+563,Milk-Bone Flea & Tick Treatment,69.5,26.98,4,Pet Supplies
+732,Spalding Hiking Backpack 40L (2023),435.82,207.39,6,Sports & Outdoors
+83,Beats Smartphone XL,4488.09,2514.58,1,electronics
+157,"LG Webcam 1080p, Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",1189.15,641.59,1,electronics
+128,"HP Soundbar, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",3540.63,1933.35,1,electronics
+49,LG Wireless Mouse,3523.62,1811.45,1,electronics
+17,Microsoft Over-Ear Headphones,816.7,0.0,1,electronics
+171,HP Over-Ear Headphones,468.85,0.0,1,electronics
+547,Nylabone Cat Litter Box,0.0,33.32,4,Pet Supplies
+110,Apple Webcam 1080p,1076.35,623.47,1,electronics
+259,Reebok Winter Parka,52.1,18.09,2,clothing
+469,Instant Pot Glass Storage Container Set V2,285.26,159.63,3,home & kitchen
+522,Hill's Adjustable Pet Collar,157.0,83.92,4,Pet Supplies
+736,Columbia Sleeping Bag (0 Degree),562.66,242.12,6,Sports & Outdoors
+269,Columbia Polo Shirt,172.41,109.22,2,clothing
+432,iRobot Drip Coffee Maker,493.35,319.11,3,home & kitchen
+85,Lenovo Webcam 1080p,405.86,162.35,1,electronics
+380,OXO Knife Set (15-Piece),618.79,369.27,3,home & kitchen
+8,Logitech Smartwatch - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,3869.87,2495.4,1,electronics
+675,LEGO Wooden Play Kitchen Set,167.34,95.6,5,Toys & Games
+80,Bose Tablet,2333.45,1155.27,1,electronics
+132,Asus Wireless Mouse,1534.36,676.47,1,electronics
+360,OXO Knife Set (15-Piece) XL,505.98,175.54,3,home & kitchen
+194,Nike Pullover Hoodie,111.15,37.54,2,clothing
+230,Gap Slim Fit Jeans,67.94,30.79,2,clothing
+565,Furminator Puppy Training Pads (50-Count),57.29,30.91,4,Pet Supplies
+668,Hot Wheels Remote Control Car,217.24,88.41,5,Toys & Games
+396,KitchenAid Electric Kettle,655.1,324.82,3,home & kitchen
+444,Black+Decker Countertop Blender,601.08,255.69,3,home & kitchen
+431,Ninja Electric Kettle,670.83,381.08,3,home & kitchen
+286,Levi's Ankle Socks (3-Pack),163.11,82.72,2,clothing
+191,Zara Denim Jacket Mini,187.49,90.77,2,clothing
+235,Columbia Polo Shirt 3rd Gen,99.15,57.22,2,clothing
+757,REI Co-op Bike Helmet,187.1,0.0,6,Sports & Outdoors
+512,Blue Buffalo Small Animal Habitat 2nd Gen,45.47,22.02,4,Pet Supplies
+3,Apple Gaming Console,2733.8,1031.06,1,electronics
+414,Cuisinart Robot Vacuum,272.92,169.81,3,home & kitchen
+376,"Breville Toaster Oven, Newly Upgraded 2024 Model with Enhanced Durability, Improved Battery Life, and Faster Performance",500.95,152.36,3,home & kitchen
+87,Google Laptop,2049.83,1004.24,1,electronics
+530,Frisco Adjustable Pet Collar Plus,40.14,21.84,4,Pet Supplies
+405,OXO Cordless Vacuum Cleaner,616.71,303.75,3,home & kitchen
+62,Apple Mechanical Keyboard (2024),2312.3,940.68,1,electronics
+174,HP Wireless Mouse,593.54,378.09,1,electronics
+372,Dyson Espresso Machine,160.64,88.69,3,home & kitchen
+219,H&M Slim Fit Jeans,113.42,49.92,2,clothing
+748,Yeti Folding Camping Chair,691.2,295.22,6,Sports & Outdoors
+418,Cuisinart Knife Set (15-Piece),304.57,136.82,3,home & kitchen
+243,Under Armour Fleece Vest,114.61,65.25,2,clothing
+293,H&M Polo Shirt Plus,33.69,12.96,2,clothing
+484,Purina Aquarium Filter Cartridge,96.02,30.82,4,Pet Supplies
+111,LG Mechanical Keyboard,1395.81,423.7,1,electronics
+403,Keurig Rice Cooker,446.99,224.19,3,home & kitchen
+210,Zara Slim Fit Jeans,190.56,213.34,2,clothing
+358,iRobot Rice Cooker,276.89,100.89,3,home & kitchen
+11,Samsung Soundbar,1239.15,572.23,1,electronics
+245,Zara Running Sneakers,124.29,53.44,2,clothing
+514,Hill's Clumping Cat Litter V2,31.2,10.57,4,Pet Supplies
+407,Instant Pot Glass Storage Container Set,279.51,108.57,3,home & kitchen
+209,Calvin Klein Denim Jacket,0.0,54.44,2,clothing
+277,Puma Athletic Shorts,162.31,93.78,2,clothing
+227,H&M Ankle Socks (3-Pack) 3rd Gen,130.7,60.38,2,clothing
+387,Ninja Knife Set (15-Piece) 3rd Gen,713.53,386.2,3,home & kitchen
+655,Fisher-Price Dollhouse,153.82,47.06,5,Toys & Games
+464,Instant Pot Stand Mixer - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,45.44,14.59,3,home & kitchen
+255,Columbia Slim Fit Jeans,238.71,117.07,2,clothing
+672,Fisher-Price Ride-On Toy,213.88,0.0,5,Toys & Games
+100,Microsoft Portable Power Bank 20000mAh,3744.66,1273.51,1,electronics
+98,Samsung Over-Ear Headphones,1012.81,311.07,1,electronics
+722,Columbia Resistance Bands Set,690.57,323.66,6,Sports & Outdoors
+137,Logitech 4K Smart TV 55-inch,474.38,200.09,1,electronics
+172,Google 4K Smart TV 55-inch,2706.24,1732.05,1,electronics
+720,Wilson Bike Helmet,414.03,161.55,6,Sports & Outdoors
+391,OXO Slow Cooker V2,229.33,74.7,3,home & kitchen
+103,Anker Monitor 27-inch Mini,3010.04,1030.55,1,electronics
+752,Wilson Hard Cooler 45qt,526.27,579.9,6,Sports & Outdoors
+532,Furminator Small Animal Habitat,84.1,33.9,4,Pet Supplies
+515,Furminator Durable Chew Toy Max,179.25,78.59,4,Pet Supplies
+581,Mattel Play-Doh Set,5.61,2.73,5,Toys & Games
+628,Nintendo Plush Stuffed Animal,49.89,27.37,5,Toys & Games
+165,Google Mechanical Keyboard,4996.87,2991.46,1,electronics
+506,Hill's Cat Scratching Tree Mini,188.42,91.44,4,Pet Supplies
+665,Nintendo Die-Cast Toy Car (5-Pack),348.02,160.59,5,Toys & Games
+614,LEGO Building Block Set,337.25,176.43,5,Toys & Games
+54,Sony Mechanical Keyboard,3534.21,1754.09,1,electronics
+43,Logitech Bluetooth Speaker,617.03,377.38,1,electronics
+164,Samsung Wi-Fi Router,1509.78,961.29,1,electronics
+186,Calvin Klein Slim Fit Jeans,152.5,46.89,2,clothing
+113,"HP Webcam 1080p, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",1123.54,0.0,1,electronics
+507,Chewy Cat Scratching Tree,126.51,49.75,4,Pet Supplies
+482,Milk-Bone Cat Scratching Tree,9.41,4.61,4,Pet Supplies
+99,Sony Monitor 27-inch 3rd Gen,1105.45,602.26,1,electronics
+371,Breville Rice Cooker,870.18,456.49,3,home & kitchen
+127,JBL Bluetooth Speaker,393.81,118.51,1,electronics
+253,Columbia Winter Parka (2024),11.97,5.75,2,clothing
+578,VTech Jigsaw Puzzle (1000 Pieces),222.33,80.46,5,Toys & Games
+635,"VTech Plush Stuffed Animal - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",138.08,87.66,5,Toys & Games
+440,Cuisinart 2-Slice Toaster,747.34,423.38,3,home & kitchen
+580,Nerf Ride-On Toy,48.76,22.03,5,Toys & Games
+388,Instant Pot Robot Vacuum (2023),77.65,39.74,3,home & kitchen
+415,Instant Pot Drip Coffee Maker,320.0,134.42,3,home & kitchen
+61,Beats Monitor 27-inch,558.31,337.92,1,electronics
+226,Puma Pullover Hoodie,119.73,37.49,2,clothing
+410,iRobot Countertop Blender Max,325.95,171.6,3,home & kitchen
+710,Coleman Sleeping Bag (0 Degree),644.85,0.0,6,Sports & Outdoors
+357,"Cuisinart Glass Storage Container Set, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",848.0,453.65,3,home & kitchen
+596,Crayola Ride-On Toy 3rd Gen,29.96,16.58,5,Toys & Games
+699,REI Co-op Kayak Paddle,41.44,20.12,6,Sports & Outdoors
+729,Wilson Non-Slip Yoga Mat,493.75,280.2,6,Sports & Outdoors
+598,Nerf Die-Cast Toy Car (5-Pack),238.15,106.95,5,Toys & Games
+217,H&M Track Pants,109.07,37.12,2,clothing
+152,Beats 4K Smart TV 55-inch (2024),4060.81,1766.97,1,electronics
+45,Lenovo USB-C Charger 65W,3586.63,1375.62,1,electronics
+447,Breville Air Fryer (2024) - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,402.73,120.91,3,home & kitchen
+29,Asus Noise Cancelling Headphones,338.84,104.15,1,electronics
+353,"Black+Decker Air Fryer - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",218.55,82.18,3,home & kitchen
+297,Puma Yoga Leggings (2023),241.93,90.8,2,clothing
+421,KitchenAid Cordless Vacuum Cleaner,729.76,234.91,3,home & kitchen
+312,Calvin Klein Pullover Hoodie,143.72,93.32,2,clothing
+225,H&M Denim Jacket,115.0,46.69,2,clothing
+34,Apple Smartphone Plus,564.15,207.07,1,electronics
+749,Adidas Resistance Bands Set,25.31,0.0,6,Sports & Outdoors
+322,Adidas Running Sneakers XL,46.21,24.42,2,clothing
+501,Blue Buffalo Flea & Tick Treatment,11.4,5.89,4,Pet Supplies
+249,Under Armour Cotton T-Shirt,180.95,75.52,2,clothing
+623,Playmobil Jigsaw Puzzle (1000 Pieces),286.06,96.19,5,Toys & Games
+370,Cuisinart Cordless Vacuum Cleaner,751.68,356.86,3,home & kitchen
+130,Anker Smartwatch,3245.21,0.0,1,electronics
+613,Melissa & Doug Action Figure (2024),10.14,4.47,5,Toys & Games
+22,Anker Wireless Mouse,1010.57,435.42,1,electronics
+439,iRobot Drip Coffee Maker (2023),893.3,539.08,3,home & kitchen
+317,Zara Polo Shirt,91.51,52.21,2,clothing
+664,Nerf Card Game,43.65,23.35,5,Toys & Games
+290,Columbia Ankle Socks (3-Pack),67.25,39.18,2,clothing
+328,Calvin Klein Yoga Leggings,130.01,51.42,2,clothing
+337,Pyrex Glass Storage Container Set,684.03,397.22,3,home & kitchen
+75,Anker Bluetooth Speaker,3103.91,1032.63,1,electronics
+169,Bose Soundbar,966.85,374.87,1,electronics
+14,Logitech USB-C Charger 65W,4425.71,2323.49,1,electronics
+659,Crayola Building Block Set,51.18,22.36,5,Toys & Games
+313,Calvin Klein Polo Shirt,228.72,0.0,2,clothing
+258,Adidas Denim Jacket Plus,204.86,74.01,2,clothing
+413,Ninja Espresso Machine,0.0,333.0,3,home & kitchen
+634,VTech Card Game,86.2,49.52,5,Toys & Games
+345,Black+Decker Rice Cooker,130.52,68.46,3,home & kitchen
+737,The North Face Adjustable Dumbbell Set,783.55,423.2,6,Sports & Outdoors
+346,Black+Decker Glass Storage Container Set,409.19,254.1,3,home & kitchen
+658,Crayola Plush Stuffed Animal,324.63,140.73,5,Toys & Games
+487,Frisco Durable Chew Toy,127.54,44.1,4,Pet Supplies
+78,Logitech Smartwatch,2010.26,706.91,1,electronics
+618,Fisher-Price Educational Learning Tablet - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,174.37,102.47,5,Toys & Games
+644,Playmobil Play-Doh Set Max,233.5,0.0,5,Toys & Games
+445,Instant Pot Slow Cooker,198.54,78.22,3,home & kitchen
+19,Lenovo Wireless Earbuds,4426.24,0.0,1,electronics
+86,JBL USB-C Charger 65W,709.09,270.12,1,electronics
+355,Pyrex Rice Cooker,0.0,428.05,3,home & kitchen
+181,Samsung Monitor 27-inch,2279.14,1218.59,1,electronics
+216,Reebok Fleece Vest 2nd Gen,119.25,39.02,2,clothing
+481,Petmate Bird Cage,189.58,108.36,4,Pet Supplies
+755,Nike Adjustable Dumbbell Set,759.14,371.03,6,Sports & Outdoors
+263,Adidas Fleece Vest,114.41,72.62,2,clothing
+619,VTech Dollhouse V2,45.77,27.38,5,Toys & Games
+497,Frisco Puppy Training Pads (50-Count),20.54,10.38,4,Pet Supplies
+517,Royal Canin Small Animal Habitat,184.21,99.98,4,Pet Supplies
+423,Dyson Rice Cooker,532.42,224.56,3,home & kitchen
+751,Wilson Hard Cooler 45qt (2024),27.9,12.25,6,Sports & Outdoors
+647,Nintendo Card Game,115.03,71.38,5,Toys & Games
+416,Ninja Toaster Oven,0.0,299.11,3,home & kitchen
+242,Puma Winter Parka,241.66,138.84,2,clothing
+126,Apple Soundbar,3818.42,1981.49,1,electronics
+362,Instant Pot Cordless Vacuum Cleaner (2023),546.59,331.11,3,home & kitchen
+268,Adidas Winter Parka,237.38,77.45,2,clothing
+352,iRobot Drip Coffee Maker XL,39.87,20.3,3,home & kitchen
+265,reebok slim fit jeans,153.78,90.39,2,clothing
+498,Purina Dry Dog Food 30lb Bag,124.5,72.62,4,Pet Supplies
+144,Samsung Portable Power Bank 20000mAh,4210.19,1430.25,1,electronics
+270,Levi's Winter Parka 3rd Gen,164.12,70.04,2,clothing
+575,Kong Durable Chew Toy,27.16,14.62,4,Pet Supplies
+41,Lenovo Over-Ear Headphones,2929.19,1394.29,1,electronics
+436,Black+Decker Robot Vacuum,391.06,201.65,3,home & kitchen
+508,Milk-Bone Clumping Cat Litter,111.49,71.79,4,Pet Supplies
+189,Reebok Cotton T-Shirt,246.97,0.0,2,clothing
+248,Champion Pullover Hoodie,101.44,33.33,2,clothing
+633,"Fisher-Price Remote Control Car - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",39.45,23.82,5,Toys & Games
+18,Logitech Noise Cancelling Headphones V2,2350.88,912.13,1,electronics
+188,Reebok Summer Dress,64.38,36.76,2,clothing
+334,Columbia Fleece Vest,36.6,14.91,2,clothing
+637,Melissa & Doug Card Game,228.07,128.7,5,Toys & Games
+734,Coleman 4-Person Camping Tent,86.88,37.06,6,Sports & Outdoors
+257,Puma Cotton T-Shirt,66.34,35.16,2,clothing
+690,Nike Official Size Basketball,138.9,86.51,6,Sports & Outdoors
+256,Reebok Polo Shirt 2nd Gen,161.82,104.11,2,clothing
+374,KitchenAid Countertop Blender,690.25,306.7,3,home & kitchen
+4,Logitech Mechanical Keyboard - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,3496.72,1465.43,1,electronics
+305,Levi's Denim Jacket,103.09,53.17,2,clothing
+745,Osprey Resistance Bands Set,234.2,122.04,6,Sports & Outdoors
+116,Google Smartwatch,4755.36,2575.3,1,electronics
+750,REI Co-op Adjustable Dumbbell Set,70.48,25.26,6,Sports & Outdoors
+541,Petmate Retractable Dog Leash 3rd Gen,85.54,55.52,4,Pet Supplies
+231,Calvin Klein Athletic Shorts,101.74,58.1,2,clothing
+283,Levi's Track Pants,209.19,100.69,2,clothing
+309,Zara Wool Sweater,49.25,25.62,2,clothing
+652,LEGO Ride-On Toy,341.76,195.26,5,Toys & Games
+476,Milk-Bone Puppy Training Pads (50-Count),11.53,0.0,4,Pet Supplies
+93,Beats Wi-Fi Router,2679.93,1654.66,1,electronics
+676,Hasbro Play-Doh Set,257.69,103.55,5,Toys & Games
+504,Furminator Dry Dog Food 30lb Bag,71.43,35.04,4,Pet Supplies
+685,Columbia Golf Club Set,12.22,7.44,6,Sports & Outdoors
+71,Dell Wireless Mouse,3331.34,1441.47,1,electronics
+44,Bose External SSD 1TB,2107.73,1062.9,1,electronics
+670,LEGO Action Figure,259.97,117.67,5,Toys & Games
+224,Champion Bomber Jacket XL,163.59,105.56,2,clothing
+412,Instant Pot Food Processor,506.6,273.91,3,home & kitchen
+493,Kong Aquarium Filter Cartridge,21.86,8.46,4,Pet Supplies
+9,Asus External SSD 1TB,2277.97,1348.42,1,electronics
+449,Hamilton Beach Countertop Blender,340.93,210.13,3,home & kitchen
+6,Beats Portable Power Bank 20000mAh,3654.05,1782.01,1,electronics
+69,Anker Smartphone XL,3327.89,1382.97,1,electronics
+65,LG Wireless Earbuds Mini,4813.41,1891.25,1,electronics
+148,Microsoft 4K Smart TV 55-inch,1350.51,406.37,1,electronics
+79,Google Wireless Earbuds,4429.61,2535.72,1,electronics
+632,Fisher-Price Jigsaw Puzzle (1000 Pieces),54.65,0.0,5,Toys & Games
+696,Nike Kayak Paddle,147.69,90.91,6,Sports & Outdoors
+435,Instant Pot Espresso Machine,732.57,0.0,3,home & kitchen
+448,Keurig Cordless Vacuum Cleaner,795.1,322.53,3,home & kitchen
+97,Asus Portable Power Bank 20000mAh,4760.55,1801.76,1,electronics
+386,Cuisinart Slow Cooker,511.91,255.11,3,home & kitchen
+719,Garmin Folding Camping Chair,329.85,111.25,6,Sports & Outdoors
+456,Black+Decker 2-Slice Toaster,403.71,151.81,3,home & kitchen
+526,Frisco Dry Dog Food 30lb Bag (2024),161.46,65.1,4,Pet Supplies
+551,Petmate Retractable Dog Leash,148.19,61.1,4,Pet Supplies
+500,Milk-Bone Cat Litter Box,83.92,35.57,4,Pet Supplies
+730,Under Armour 4-Person Camping Tent,257.12,157.96,6,Sports & Outdoors
+401,Pyrex Espresso Machine,774.95,496.73,3,home & kitchen
+196,Zara Denim Jacket,79.36,37.85,2,clothing
+747,The North Face Non-Slip Yoga Mat Plus,258.27,103.82,6,Sports & Outdoors
+321,Ralph Lauren Wool Sweater,108.01,59.52,2,clothing
+202,Adidas Track Pants,189.56,114.46,2,clothing
+429,Keurig Toaster Oven,642.02,292.34,3,home & kitchen
+604,Nintendo Ride-On Toy,66.71,28.88,5,Toys & Games
+420,Keurig Stand Mixer,410.11,184.69,3,home & kitchen
+642,LEGO Plush Stuffed Animal,127.89,73.46,5,Toys & Games
+465,Ninja Countertop Blender,379.72,207.19,3,home & kitchen
+57,Asus Over-Ear Headphones,1262.65,424.22,1,electronics
+520,Chewy Clumping Cat Litter,154.62,79.47,4,Pet Supplies
+287,Calvin Klein Bomber Jacket,226.27,94.62,2,clothing
+383,Instant Pot Air Fryer,626.13,312.05,3,home & kitchen
+28,HP Smartphone,3364.99,1449.29,1,electronics
+731,Adidas Adjustable Dumbbell Set,733.38,291.95,6,Sports & Outdoors
+190,Reebok Athletic Shorts 2nd Gen,94.68,54.53,2,clothing
+741,The North Face Hard Cooler 45qt,652.35,304.51,6,Sports & Outdoors
+151,Asus USB-C Charger 65W,1209.24,524.86,1,electronics
+460,Hamilton Beach Cordless Vacuum Cleaner,675.57,272.55,3,home & kitchen
+597,Fisher-Price Card Game,95.38,30.29,5,Toys & Games
+262,Levi's Wool Sweater 3rd Gen,217.51,90.52,2,clothing
+314,H&M Baseball Cap,67.65,33.51,2,clothing
+573,Blue Buffalo Automatic Pet Feeder,46.31,28.02,4,Pet Supplies
+299,Levi's Athletic Shorts 2nd Gen,221.54,122.87,2,clothing
+571,PetSafe Puppy Training Pads (50-Count),160.51,97.39,4,Pet Supplies
+177,HP Portable Power Bank 20000mAh,2931.1,1723.04,1,electronics
+426,Ninja Slow Cooker,351.49,128.3,3,home & kitchen
+156,Logitech Soundbar,4299.51,1861.7,1,electronics
+711,Garmin Kayak Paddle Mini,70.46,22.07,6,Sports & Outdoors
+758,Yeti GPS Sports Watch,15.36,7.42,6,Sports & Outdoors
+154,Samsung Wi-Fi Router (2024) - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,2061.68,1090.99,1,electronics
+163,JBL Wireless Earbuds,1452.4,713.58,1,electronics
+588,Nintendo Jigsaw Puzzle (1000 Pieces) 2nd Gen,225.54,128.54,5,Toys & Games
+566,PETSAFE DURABLE CHEW TOY,65.14,25.85,4,Pet Supplies
+582,Playmobil Wooden Play Kitchen Set,265.86,129.17,5,Toys & Games
+229,Calvin Klein Running Sneakers,204.24,121.13,2,clothing
+296,Puma Baseball Cap Max,249.01,115.39,2,clothing
+490,Chewy Orthopedic Pet Bed,91.21,40.34,4,Pet Supplies
+200,Levi's Yoga Leggings 3rd Gen,31.36,39.84,2,clothing
+150,HP Gaming Console,3819.1,1649.94,1,electronics
+446,Hamilton Beach Rice Cooker,768.65,442.67,3,home & kitchen
+232,Columbia Pullover Hoodie,23.94,7.97,2,clothing
+77,Bose Webcam 1080p,2287.96,1395.99,1,electronics
+390,Dyson Toaster Oven,344.12,0.0,3,home & kitchen
+76,Apple External SSD 1TB,1011.66,312.15,1,electronics
+1,Anker Smartphone Mini,714.89,240.11,1,electronics
+326,Champion Yoga Leggings,219.08,87.92,2,clothing
+693,Garmin Sleeping Bag (0 Degree),120.16,60.55,6,Sports & Outdoors
+72,Google Tablet,2748.72,825.01,1,electronics
+721,Coleman Non-Slip Yoga Mat,453.58,258.31,6,Sports & Outdoors
+681,Mattel Jigsaw Puzzle (1000 Pieces) (2023),20.06,12.9,5,Toys & Games
+695,Wilson Running Shoes,20.12,9.72,6,Sports & Outdoors
+654,Hot Wheels Foam Dart Blaster Mini,202.93,77.05,5,Toys & Games
+743,Yeti GPS Sports Watch 3rd Gen,545.9,279.47,6,Sports & Outdoors
+254,"Under Armour Running Sneakers, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",66.21,29.52,2,clothing
+168,JBL Wi-Fi Router,4516.61,2581.28,1,electronics
+707,Garmin Adjustable Dumbbell Set,620.93,272.8,6,Sports & Outdoors
+395,Instant Pot Robot Vacuum,708.14,426.51,3,home & kitchen
+409,Keurig Glass Storage Container Set,329.97,202.41,3,home & kitchen
+502,Petmate Airline Approved Pet Carrier,93.61,30.96,4,Pet Supplies
+524,"Nylabone Orthopedic Pet Bed - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",140.52,89.82,4,Pet Supplies
+638,Playmobil Remote Control Car,105.78,38.3,5,Toys & Games
+36,HP Gaming Console XL,4845.59,3024.76,1,electronics
+594,Fisher-Price Remote Control Car,59.48,29.26,5,Toys & Games
+590,VTech Fashion Doll,193.35,90.11,5,Toys & Games
+91,Google Gaming Console,2451.37,969.58,1,electronics
+697,Adidas Official Size Basketball,603.63,200.78,6,Sports & Outdoors
+451,"Breville Countertop Blender - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",79.36,40.3,3,home & kitchen
+478,Purina Puppy Training Pads (50-Count) 2nd Gen,153.79,98.96,4,Pet Supplies
+238,Ralph Lauren Polo Shirt (2023),130.85,63.98,2,clothing
+306,Puma Denim Jacket,126.53,62.89,2,clothing
+304,Adidas Denim Jacket Max,44.03,26.97,2,clothing
+59,Asus Monitor 27-inch,4057.63,2469.05,1,electronics
+475,"Purina Cat Scratching Tree, Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",50.23,23.36,4,Pet Supplies
+557,Furminator Cat Litter Box,10.64,4.58,4,Pet Supplies
+518,CHEWY PUPPY TRAINING PADS (50-COUNT),37.43,15.25,4,Pet Supplies
+379,Hamilton Beach Robot Vacuum,342.01,151.21,3,home & kitchen
+40,Google Webcam 1080p,4844.16,2435.22,1,electronics
+343,KitchenAid Slow Cooker - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,524.69,0.0,3,home & kitchen
+703,Osprey 4-Person Camping Tent,12.69,6.71,6,Sports & Outdoors
+523,Milk-Bone Automatic Pet Feeder,51.16,16.56,4,Pet Supplies
+552,Milk-Bone Dog Grooming Brush,86.71,53.73,4,Pet Supplies
+430,Breville Toaster Oven,206.26,64.24,3,home & kitchen
+612,Mattel Card Game (2024),159.03,95.39,5,Toys & Games
+536,Nylabone Bird Cage,54.67,17.58,4,Pet Supplies
+480,Purina Bird Cage Max,150.12,83.89,4,Pet Supplies
+603,Nerf Fashion Doll 2nd Gen,296.14,99.59,5,Toys & Games
+223,Champion Baseball Cap XL,127.57,71.96,2,clothing
+521,Royal Canin Orthopedic Pet Bed,142.88,54.77,4,Pet Supplies
+221,Adidas Bomber Jacket,195.84,82.82,2,clothing
+443,Hamilton Beach Drip Coffee Maker Plus,527.93,318.93,3,home & kitchen
+356,Black+Decker Air Fryer V2,536.57,299.04,3,home & kitchen
+698,REI Co-op Hiking Backpack 40L,7.94,4.99,6,Sports & Outdoors
+107,JBL Soundbar,2427.81,1098.47,1,electronics
+175,Sony Monitor 27-inch,0.0,3128.93,1,electronics
+473,Chewy Durable Chew Toy,15.25,9.16,4,Pet Supplies
+197,Champion Bomber Jacket,166.43,101.06,2,clothing
+247,Levi's Track Pants Max,222.07,138.94,2,clothing
+82,Logitech Gaming Console,3071.0,1694.41,1,electronics
+622,Nerf Ride-On Toy 2nd Gen,153.74,77.61,5,Toys & Games
+733,The North Face Sleeping Bag (0 Degree),417.93,171.55,6,Sports & Outdoors
+714,Yeti Insulated Water Bottle V2,560.86,289.02,6,Sports & Outdoors
+123,Apple Laptop V2,444.19,171.84,1,electronics
+543,Purina Durable Chew Toy,65.32,25.91,4,Pet Supplies
+303,H&M Running Sneakers,129.01,40.75,2,clothing
+559,Milk-Bone Orthopedic Pet Bed,57.73,25.13,4,Pet Supplies
+488,nylabone flea & tick treatment,77.69,45.93,4,Pet Supplies
+273,Under Armour Bomber Jacket Pro,101.64,50.47,2,clothing
+155,Sony Bluetooth Speaker,1706.02,925.42,1,electronics
+660,Playmobil Plush Stuffed Animal,238.33,147.75,5,Toys & Games
+650,Nerf Wooden Play Kitchen Set,190.13,57.53,5,Toys & Games
+333,Calvin Klein Baseball Cap,182.93,55.61,2,clothing
+285,Ralph Lauren Ankle Socks (3-Pack),161.67,79.67,2,clothing
+591,Nerf Remote Control Car,108.18,57.51,5,Toys & Games
+55,Samsung Bluetooth Speaker,762.28,238.3,1,electronics
+408,Cuisinart Glass Storage Container Set,891.71,417.08,3,home & kitchen
+366,Pyrex Electric Kettle,329.73,129.1,3,home & kitchen
+419,Dyson Knife Set (15-Piece),175.87,93.22,3,home & kitchen
+208,Columbia Polo Shirt 2nd Gen,136.37,58.87,2,clothing
+53,Asus Over-Ear Headphones (2023),239.54,99.83,1,electronics
+671,Hasbro Board Game,170.05,77.52,5,Toys & Games
+66,Anker USB-C Charger 65W XL,1582.1,810.31,1,electronics
+602,Melissa & Doug Wooden Play Kitchen Set,169.46,75.85,5,Toys & Games
+179,LG Soundbar,4122.79,2549.06,1,electronics
+394,Black+Decker Slow Cooker Mini,466.06,156.67,3,home & kitchen
+708,Under Armour Hard Cooler 45qt,561.54,200.26,6,Sports & Outdoors
+88,Dell Over-Ear Headphones,4526.09,2283.09,1,electronics
+434,Black+Decker Knife Set (15-Piece),410.25,0.0,3,home & kitchen
+237,Levi's Summer Dress,54.46,35.4,2,clothing
+246,Zara Cotton T-Shirt Pro,74.01,45.65,2,clothing
+601,VTech Foam Dart Blaster,43.38,19.09,5,Toys & Games
+640,Mattel Wooden Play Kitchen Set,206.05,80.21,5,Toys & Games
+608,Melissa & Doug Play-Doh Set,170.74,90.88,5,Toys & Games
+555,Chewy Dry Dog Food 30lb Bag,42.12,13.49,4,Pet Supplies
+250,Levi's Running Sneakers (2024),41.58,22.74,2,clothing
+233,Ralph Lauren Slim Fit Jeans,166.88,103.0,2,clothing
+167,Apple Mirrorless Camera,3435.27,1925.93,1,electronics
+553,Frisco Small Animal Habitat,156.88,75.36,4,Pet Supplies
+492,Purina Clumping Cat Litter Pro,157.87,85.87,4,Pet Supplies
+404,Ninja Rice Cooker,359.7,122.25,3,home & kitchen
+621,LEGO Fashion Doll,231.82,147.13,5,Toys & Games
+470,Black+Decker Non-Stick Cookware Set (10-Piece) Pro,155.8,98.71,3,home & kitchen
+718,Adidas GPS Sports Watch,186.44,118.78,6,Sports & Outdoors
+94,Logitech External SSD 1TB,2154.48,1300.01,1,electronics
+201,reebok running sneakers,143.89,59.77,2,clothing
+187,Reebok Denim Jacket,144.62,46.86,2,clothing
+468,Instant Pot Electric Kettle,763.35,244.48,3,home & kitchen
+704,Osprey Fishing Rod & Reel Combo,344.86,174.11,6,Sports & Outdoors
+615,Crayola Foam Dart Blaster XL,121.93,71.8,5,Toys & Games
+459,Black+Decker Electric Kettle,764.61,405.58,3,home & kitchen
+441,Breville Slow Cooker,249.15,110.87,3,home & kitchen
+74,HP Smartwatch,4799.95,2676.39,1,electronics
+600,Crayola Jigsaw Puzzle (1000 Pieces),334.45,131.74,5,Toys & Games
+651,VTech Play-Doh Set,303.26,0.0,5,Toys & Games
+678,Nintendo Jigsaw Puzzle (1000 Pieces),59.08,29.44,5,Toys & Games
+241,Gap Winter Parka Plus,65.47,0.0,2,clothing
+694,Under Armour Adjustable Dumbbell Set,738.42,375.7,6,Sports & Outdoors
+525,Purina Adjustable Pet Collar,74.43,43.92,4,Pet Supplies
+364,Ninja Rice Cooker Max,114.4,74.34,3,home & kitchen
+330,Nike Denim Jacket,191.25,69.12,2,clothing
+351,iRobot Cordless Vacuum Cleaner,691.78,421.51,3,home & kitchen
+159,Beats Smartphone,4519.04,1428.45,1,electronics
+234,Levi's Denim Jacket Pro,83.07,44.0,2,clothing
+50,Microsoft Noise Cancelling Headphones XL,3323.67,2089.34,1,electronics
+240,  Levi's Athletic Shorts  ,159.18,98.04,2,clothing
+702,Wilson Insulated Water Bottle,211.43,63.83,6,Sports & Outdoors
+411,KitchenAid Slow Cooker,718.64,242.24,3,home & kitchen
+417,"Instant Pot Electric Kettle 3rd Gen, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",586.68,315.05,3,home & kitchen
+567,Royal Canin Airline Approved Pet Carrier,49.45,15.82,4,Pet Supplies
+135,Dell Smartwatch,3367.95,1328.08,1,electronics
+688,Columbia Hard Cooler 45qt,174.08,62.05,6,Sports & Outdoors
+81,Asus Smartphone,3344.53,2159.77,1,electronics
+203,Gap Pullover Hoodie,93.09,46.76,2,clothing
+341,Black+Decker Toaster Oven XL,59.51,20.6,3,home & kitchen
+562,"Blue Buffalo Adjustable Pet Collar, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",117.53,74.05,4,Pet Supplies
+365,Pyrex Cordless Vacuum Cleaner Max,362.99,139.3,3,home & kitchen
+457,Instant Pot 2-Slice Toaster,351.78,224.13,3,home & kitchen
+184,Under Armour Winter Parka,95.76,61.6,2,clothing
+402,Cuisinart Electric Kettle,188.75,77.38,3,home & kitchen
+437,Ninja Cordless Vacuum Cleaner,0.0,246.17,3,home & kitchen
+617,"Hasbro Building Bricks Set Max, Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",291.13,185.61,3,home & kitchen
+56,LG External SSD 1TB,228.3,0.0,1,electronics
+393,Pyrex Drip Coffee Maker Mini,687.59,230.88,3,home & kitchen
+109,Asus Wi-Fi Router,3059.44,1323.66,1,electronics
+531,Nylabone Bird Cage (2024),0.0,9.94,4,Pet Supplies
+735,Spalding Hard Cooler 45qt,380.77,195.94,6,Sports & Outdoors
+657,Crayola Foam Dart Blaster Pro,325.09,109.6,5,Toys & Games
+134,Google USB-C Charger 65W - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,4810.31,2850.52,1,electronics
+52,Bose USB-C Charger 65W,1334.63,628.59,1,electronics
+595,"Barbie Ride-On Toy, Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",317.77,188.23,5,Toys & Games
+756,Coleman Bike Helmet,454.23,219.49,6,Sports & Outdoors
+572,Blue Buffalo Airline Approved Pet Carrier Pro,139.15,68.97,4,Pet Supplies
+73,JBL Smartwatch,3280.42,1518.0,1,electronics
+176,Microsoft Gaming Console,89.3,43.56,1,electronics
+251,Calvin Klein Cotton T-Shirt - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,210.05,103.36,2,clothing
+291,Champion Ankle Socks (3-Pack),46.25,20.6,2,clothing
+145,Samsung Laptop,2554.17,1010.68,1,electronics
+278,Ralph Lauren Wool Sweater Max,65.28,30.87,2,clothing
+554,Blue Buffalo Durable Chew Toy,30.09,17.99,4,Pet Supplies
+679,Nintendo Board Game,0.0,48.25,5,Toys & Games
+212,Under Armour Bomber Jacket,172.12,87.37,2,clothing
+105,LG Wireless Earbuds,545.57,347.13,1,electronics
+527,Hill's Flea & Tick Treatment,36.46,15.73,4,Pet Supplies
+16,Logitech Mirrorless Camera,708.88,335.11,1,electronics
+118,Logitech Wireless Mouse,1495.3,637.46,1,electronics
+281,Champion Slim Fit Jeans Plus,116.88,62.89,2,clothing
+162,Dell Noise Cancelling Headphones,2316.52,900.88,1,electronics
+723,  Yeti Non-Slip Yoga Mat  ,181.75,99.13,6,Sports & Outdoors
+280,Adidas Ankle Socks (3-Pack),123.83,54.95,2,clothing
+686,Wilson Resistance Bands Set,229.67,80.98,6,Sports & Outdoors
+452,iRobot Espresso Machine Plus,889.45,398.3,3,home & kitchen
+327,Nike Cotton T-Shirt,232.68,97.09,2,clothing
+546,Purina Orthopedic Pet Bed,167.82,101.91,4,Pet Supplies
+284,Ralph Lauren Fleece Vest,62.55,39.51,2,clothing
+294,Adidas Baseball Cap,20.24,12.77,2,clothing
+198,Ralph Lauren Summer Dress,108.13,63.75,2,clothing
+206,Champion Baseball Cap V2,175.81,54.52,2,clothing
+329,Reebok Bomber Jacket,164.88,90.93,2,clothing
+724,Columbia Kayak Paddle,14.7,8.69,6,Sports & Outdoors
+666,Playmobil Foam Dart Blaster,37.97,21.03,5,Toys & Games
+24,  HP Wireless Earbuds Plus  ,4161.68,1696.43,1,electronics
+320,Levi's Bomber Jacket,66.66,35.63,2,clothing
+715,REI Co-op Official Size Basketball,780.68,257.93,6,Sports & Outdoors
+106,Anker Wi-Fi Router,3674.29,2343.89,1,electronics
+48,Bose Noise Cancelling Headphones,4406.69,2678.14,1,electronics
+479,Purina Puppy Training Pads (50-Count) 3rd Gen,148.09,60.53,4,Pet Supplies
+662,Nintendo Play-Doh Set,109.41,61.48,5,Toys & Games
+754,Under Armour 4-Person Camping Tent Plus,264.87,123.6,6,Sports & Outdoors
+46,Dell Laptop,1594.55,897.97,1,electronics
+319,Calvin Klein Summer Dress,233.78,127.1,2,clothing
+5,Sony Smartwatch,481.86,160.87,1,electronics
+119,HP Laptop (2024),246.66,78.71,1,electronics
+535,Purina Cat Litter Box,73.33,33.44,4,Pet Supplies
+397,Ninja Non-Stick Cookware Set (10-Piece),249.33,98.22,3,home & kitchen
+471,Furminator Flea & Tick Treatment,0.0,58.91,4,Pet Supplies
+211,Adidas Bike Helmet 3rd Gen,154.9,68.92,6,Sports & Outdoors
+136,Asus Mechanical Keyboard,4582.03,1665.67,1,electronics
+529,CHEWY SMALL ANIMAL HABITAT,125.91,64.54,4,Pet Supplies
+101,Beats Tablet,147.87,60.51,1,electronics
+147,Asus Soundbar,4322.84,1714.81,1,electronics
+336,Ninja Knife Set (15-Piece),414.92,268.08,3,home & kitchen
+318,Levi's Ankle Socks (3-Pack) 3rd Gen,115.05,0.0,2,clothing
+537,Milk-Bone Orthopedic Pet Bed Plus,81.58,46.07,4,Pet Supplies
+716,Under Armour Sleeping Bag (0 Degree) 2nd Gen,471.75,227.01,6,Sports & Outdoors
+349,Dyson Drip Coffee Maker,387.46,167.67,3,home & kitchen
+195,Gap Winter Parka 3rd Gen,43.89,15.11,2,clothing
+158,JBL Monitor 27-inch,510.24,266.25,1,electronics
+513,Kong Automatic Pet Feeder,29.13,16.05,4,Pet Supplies
+495,Kong Cat Litter Box,106.76,35.57,4,Pet Supplies
+26,Samsung Gaming Console,2386.9,1175.38,1,electronics
+667,Melissa & Doug Action Figure,85.14,0.0,5,Toys & Games
+455,OXO Stand Mixer,322.55,120.82,3,home & kitchen
+95,Sony Over-Ear Headphones,2284.39,0.0,1,electronics
+673,Mattel Card Game V2,30.45,0.0,5,Toys & Games
+39,Apple Webcam 1080p (2023),4977.19,2461.31,1,electronics
+384,Hamilton Beach Air Fryer,259.52,127.18,3,home & kitchen
+115,Asus Wireless Earbuds 2nd Gen,1546.97,588.91,1,electronics
+674,Fisher-Price Play-Doh Set,270.13,101.15,5,Toys & Games
+605,Hasbro Building Block Set,255.63,156.48,5,Toys & Games
+727,Spalding GPS Sports Watch,198.94,78.16,6,Sports & Outdoors
+222,Columbia Running Sneakers,55.73,28.47,2,clothing
+310,"Zara Polo Shirt Max, Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",0.0,24.61,2,clothing
+463,OXO Glass Storage Container Set,688.82,436.75,3,home & kitchen
+381,Breville Air Fryer (2023),433.63,226.73,3,home & kitchen
+244,Reebok Polo Shirt,47.21,17.46,2,clothing
+701,Osprey Hard Cooler 45qt,614.32,379.98,6,Sports & Outdoors
+89,Logitech Over-Ear Headphones,1914.29,578.24,1,electronics
+687,Under Armour GPS Sports Watch,531.25,236.47,6,Sports & Outdoors
+279,H&M Fleece Vest,39.39,24.01,2,clothing
+33,Samsung Smartphone,2067.28,1245.21,1,electronics
+323,Reebok Athletic Shorts XL,77.5,30.99,2,clothing
+669,Barbie Wooden Play Kitchen Set Mini,113.44,51.04,5,Toys & Games
+120,JBL Laptop,530.88,161.54,1,electronics
+753,Yeti Running Shoes,503.79,174.28,6,Sports & Outdoors
+192,H&M Winter Parka,132.19,44.7,2,clothing
+399,Pyrex Food Processor,451.25,232.77,3,home & kitchen
+585,Fisher-Price Plush Stuffed Animal,185.33,223.72,5,Toys & Games
+170,Microsoft Laptop,3238.77,1321.83,1,electronics
+548,PetSafe Cat Scratching Tree (2024),79.31,34.78,4,Pet Supplies
+385,Breville Air Fryer,23.93,8.91,3,home & kitchen
+348,iRobot Slow Cooker,208.18,62.71,3,home & kitchen
+32,HP Mirrorless Camera,2375.4,1051.05,1,electronics
+288,"Zara Pullover Hoodie, Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",237.54,135.36,2,clothing
+153,"Anker Laptop, Newly Upgraded 2024 Model with Enhanced Durability, Improved Battery Life, and Faster Performance",4827.45,2009.18,1,electronics
+68,Apple Noise Cancelling Headphones,3602.75,2016.4,1,electronics
+705,Yeti Kayak Paddle,793.49,348.43,6,Sports & Outdoors
+214,Zara Winter Parka Pro,37.03,17.56,2,clothing
+20,Microsoft USB-C Charger 65W (2023),36.15,19.98,1,electronics
+549,Hill's Cat Scratching Tree (2024),0.0,52.49,4,Pet Supplies
+569,Nylabone Flea & Tick Treatment,141.29,71.22,4,Pet Supplies
+324,Nike Slim Fit Jeans,186.75,111.6,2,clothing
+579,Crayola Die-Cast Toy Car (5-Pack) Mini,271.64,136.28,5,Toys & Games
+744,Adidas Sleeping Bag (0 Degree),264.79,126.74,6,Sports & Outdoors
+534,PetSafe Orthopedic Pet Bed,95.47,50.73,4,Pet Supplies
+58,Samsung Webcam 1080p XL,3110.88,1101.54,1,electronics
+682,Hasbro Fashion Doll,291.05,172.36,5,Toys & Games
+474,Blue Buffalo Puppy Training Pads (50-Count),170.43,91.34,4,Pet Supplies
+344,Pyrex Countertop Blender,805.84,519.89,3,home & kitchen
+550,Nylabone Airline Approved Pet Carrier,133.78,44.73,4,Pet Supplies
+472,Hill's Flea & Tick Treatment (2024),101.9,39.95,4,Pet Supplies
+643,Hasbro Card Game,276.04,98.21,5,Toys & Games
+160,microsoft over-ear headphones,744.93,361.97,1,electronics
+494,Hill's Cat Litter Box,53.12,34.35,4,Pet Supplies
+140,LG Smartphone,2582.68,1668.0,1,electronics
+746,Under Armour Sleeping Bag (0 Degree),341.49,175.63,6,Sports & Outdoors
+486,Hill's Bird Cage,22.67,7.86,4,Pet Supplies
+491,Hill's Automatic Pet Feeder 2nd Gen,62.03,24.36,4,Pet Supplies
+347,Keurig Slow Cooker XL,775.65,264.9,3,home & kitchen
+339,iRobot Robot Vacuum V2,747.6,460.53,3,home & kitchen
+692,Nike Running Shoes,487.97,226.9,6,Sports & Outdoors
+180,JBL 4K Smart TV 55-inch 2nd Gen,1535.73,725.51,1,electronics
+30,"Lenovo Monitor 27-inch, Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",1160.12,715.67,1,electronics
+684,Wilson Adjustable Dumbbell Set,416.47,176.38,6,Sports & Outdoors
+583,Nintendo Building Block Set,243.95,102.59,5,Toys & Games
+406,Black+Decker Espresso Machine,719.93,425.44,3,home & kitchen
+350,Instant Pot Cordless Vacuum Cleaner,177.74,107.77,3,home & kitchen
+680,Melissa & Doug Card Game Plus,235.32,113.25,5,Toys & Games
+117,Bose Smartwatch,2956.13,1673.38,1,electronics
+7,Asus Mirrorless Camera Mini,0.0,1865.08,1,electronics
+332,Levi's Running Sneakers,9.64,4.19,2,clothing
+738,REI Co-op Kayak Paddle (2024),686.04,252.89,6,Sports & Outdoors
+519,Milk-Bone Airline Approved Pet Carrier 2nd Gen,180.5,78.89,4,Pet Supplies
+308,Gap Wool Sweater Max,166.64,106.69,2,clothing
+316,Calvin Klein Fleece Vest,182.63,73.18,2,clothing
+740,rei co-op fishing rod & reel combo,452.77,225.82,6,Sports & Outdoors
+261,Puma Polo Shirt,69.29,0.0,2,clothing
+289,Puma Summer Dress,162.63,77.14,2,clothing
+207,Puma Ankle Socks (3-Pack),51.89,18.17,2,clothing
+656,Crayola Fashion Doll,0.0,123.05,5,Toys & Games
+12,JBL Gaming Console,3846.19,1229.16,1,electronics
+218,Calvin Klein Yoga Leggings (2023),119.33,64.6,2,clothing
+653,Crayola Foam Dart Blaster,162.88,67.77,5,Toys & Games
+574,Frisco Automatic Pet Feeder,90.79,0.0,4,Pet Supplies
+359,Dyson Glass Storage Container Set 2nd Gen,773.2,271.02,3,home & kitchen
+342,Keurig Espresso Machine,608.75,248.28,3,home & kitchen
+47,Samsung Wireless Earbuds,4980.55,1621.87,1,electronics
+728,Spalding Insulated Water Bottle,289.32,165.67,6,Sports & Outdoors
+425,KitchenAid Air Fryer Plus,114.07,49.13,3,home & kitchen
+631,Mattel Building Block Set - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,22.35,7.15,5,Toys & Games
+213,Ralph Lauren Ankle Socks (3-Pack) (2023),21.25,7.9,2,clothing
+121,JBL Webcam 1080p,4828.17,0.0,1,electronics
+641,Mattel Fashion Doll,57.17,23.61,5,Toys & Games
+477,PetSafe Clumping Cat Litter Plus,174.42,71.86,4,Pet Supplies
+25,  Apple Monitor 27-inch  ,446.54,209.92,1,electronics
+122,beats webcam 1080p 3rd gen,388.92,202.36,1,electronics
+2,"GOOGLE GAMING CONSOLE (2023), LONG BATTERY LIFE, COMPATIBLE WITH IOS AND ANDROID, INCLUDES CHARGING CASE AND 3 EAR TIP SIZES (SMALL/MEDIUM/LARGE)",1108.81,528.76,1,electronics
+199,Champion Track Pants,83.62,0.0,2,clothing
+298,H&M Pullover Hoodie (2024),211.96,222.91,2,clothing
+239,Calvin Klein Athletic Shorts Pro,157.55,80.2,2,clothing
+625,Barbie Wooden Play Kitchen Set,105.77,61.52,5,Toys & Games
+185,H&M Fleece Vest Mini,37.55,22.41,2,clothing
+505,Purina Puppy Training Pads (50-Count),76.84,27.89,4,Pet Supplies
+510,"Hill's Puppy Training Pads (50-Count), Special Limited Edition Colorway with Bonus Accessories Bundle for Home, Office, and Travel Use",180.29,89.65,4,Pet Supplies
+648,Hot Wheels Play-Doh Set,12.54,6.03,5,Toys & Games
+533,Royal Canin Small Animal Habitat - Premium Edition with Extended 2-Year Manufacturer Warranty and Free Carrying Case Included,0.0,79.0,4,Pet Supplies
+509,  Frisco Puppy Training Pads (50-Count)  ,37.13,14.21,4,Pet Supplies
+577,Hasbro Dollhouse,345.37,120.92,5,Toys & Games
+630,Crayola Dollhouse,188.72,114.58,5,Toys & Games
+133,JBL Noise Cancelling Headphones,2998.21,1832.8,1,electronics
+363,iRobot Food Processor Mini,306.33,384.45,3,home & kitchen
+639,Fisher-Price Building Bricks Set Mini,181.78,78.53,5,Toys & Games
+589,"Nintendo Die-Cast Toy Car (5-Pack), Long Battery Life, Compatible with iOS and Android, Includes Charging Case and 3 Ear Tip Sizes (Small/Medium/Large)",230.12,70.63,5,Toys & Games
+539,PetSafe Cat Scratching Tree,172.0,94.6,4,Pet Supplies
+266,Gap Denim Jacket 2nd Gen,167.93,68.39,2,clothing
+325,Nike Athletic Shorts,234.0,73.18,2,clothing
+624,crayola action figure,342.9,212.79,5,Toys & Games
+739,"Osprey Hiking Backpack 40L - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",403.17,261.43,6,Sports & Outdoors
+295,Zara Track Pants,46.64,19.34,2,clothing
+620,Playmobil Ride-On Toy,120.92,68.32,5,Toys & Games
+706,Spalding Kayak Paddle,148.71,73.71,6,Sports & Outdoors
+496,Purina Retractable Dog Leash 2nd Gen,186.76,64.57,4,Pet Supplies
+542,Royal Canin Retractable Dog Leash,173.49,107.56,4,Pet Supplies
+645,LEGO Dollhouse,168.29,83.55,5,Toys & Games
+586,Crayola Board Game,128.29,46.95,5,Toys & Games
+60,Bose Mirrorless Camera Mini,4655.45,2703.8,1,electronics
+627,Playmobil Action Figure,222.86,82.53,5,Toys & Games
+726,Columbia Insulated Water Bottle,758.05,408.66,6,Sports & Outdoors
+713,Under Armour Golf Club Set,527.9,306.9,6,Sports & Outdoors
+215,Champion Athletic Shorts XL,129.05,76.36,2,clothing
+538,Petmate Clumping Cat Litter,82.44,40.18,4,Pet Supplies
+424,Instant Pot Rice Cooker,274.72,141.5,3,home & kitchen
+540,Furminator Retractable Dog Leash (2024),187.1,0.0,4,Pet Supplies
+338,KitchenAid Drip Coffee Maker,710.75,343.95,3,home & kitchen
+282,Nike Running Sneakers 3rd Gen,162.82,59.22,2,clothing
+712,The North Face Folding Camping Chair,571.29,290.85,6,Sports & Outdoors
+125,HP Mechanical Keyboard,2155.56,1075.67,1,electronics
+138,LG USB-C Charger 65W,1662.41,902.33,1,electronics
+483,"Royal Canin Dry Dog Food 30lb Bag - Professional Grade, Heavy Duty Construction, Suitable for Indoor and Outdoor Use, Family Pack of 4",162.06,89.87,4,Pet Supplies
+300,Champion Polo Shirt (2023),146.0,53.75,2,clothing
+67,Lenovo Smartphone,1288.51,706.2,1,electronics
+564,PetSafe Airline Approved Pet Carrier,78.46,26.35,4,Pet Supplies
+438,Cuisinart Rice Cooker,519.72,329.16,3,home & kitchen
+70,Apple Smartwatch V2,1560.23,691.08,1,electronics
+389,OXO Slow Cooker,574.36,329.82,3,home & kitchen
+378,Keurig Non-Stick Cookware Set (10-Piece) 3rd Gen,224.45,116.02,3,home & kitchen
+331,Under Armour Polo Shirt,28.98,15.48,2,clothing
+307,Calvin Klein Cotton T-Shirt,245.13,123.62,2,clothing
+96,Asus Mirrorless Camera,0.0,1255.14,1,electronics
+37,Lenovo External SSD 1TB,1084.45,477.55,1,electronics
+369,Cuisinart Stand Mixer,525.43,234.42,3,home & kitchen
+593,playmobil fashion doll,176.21,90.42,5,Toys & Games
+467,Pyrex 2-Slice Toaster Mini,752.72,405.24,3,home & kitchen
+182,HP Laptop,789.51,351.5,1,electronics
+576,Furminator Airline Approved Pet Carrier,32.88,21.28,4,Pet Supplies
+587,Mattel Building Block Set,49.39,27.51,5,Toys & Games
+610,NERF RIDE-ON TOY,29.89,14.11,5,Toys & Games
+717,Osprey Non-Slip Yoga Mat,582.82,288.9,6,Sports & Outdoors
+709,Spalding Folding Camping Chair,493.91,266.51,6,Sports & Outdoors
+677,Melissa & Doug Foam Dart Blaster,233.28,139.22,5,Toys & Games
+626,Nerf Dollhouse,181.24,107.85,5,Toys & Games
+292,Ralph Lauren Slim Fit Jeans (2023),216.47,89.13,2,clothing
+689,The North Face 4-Person Camping Tent,476.72,165.49,6,Sports & Outdoors
+166,Microsoft Mechanical Keyboard Pro,1493.43,813.54,1,electronics
+183,Adidas Yoga Leggings,75.69,40.99,2,clothing
+427,Breville Non-Stick Cookware Set (10-Piece),134.85,55.3,3,home & kitchen
+112,Bose Bluetooth Speaker,2784.77,1069.67,1,electronics
+51,Sony Mechanical Keyboard 3rd Gen,794.12,316.55,1,electronics
+90,Asus Noise Cancelling Headphones (2024),4768.07,2129.69,1,electronics
+340,Ninja 2-Slice Toaster,403.23,216.98,3,home & kitchen
