@@ -71,7 +71,7 @@ The SQL stage included:
 -   Cross-table consistency checks
 -   Referential-integrity validation
 
-The database schema is documented below:
+The database schema ER Diagram is documented below:
 
 ![SQL Database Schema](schemas/sql_database_schema.png)
 
