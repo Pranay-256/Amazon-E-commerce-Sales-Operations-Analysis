@@ -238,7 +238,7 @@ Amazon-E-commerce-Sales-Operations-Analytics-Pipeline/
 │       ├── fact_inventory.csv
 │       └── fact_sales.csv
 │
-├── python scripts/
+├── python script/
 │   ├── fact_dim_creation.py
 │ 
 │
@@ -261,10 +261,6 @@ Amazon-E-commerce-Sales-Operations-Analytics-Pipeline/
 The project follows a **full-refresh workflow**.
 
 Whenever the source database/data is changed:
-
-### Step 1 --- Re-import the original data
-
-Run:
 
 ### Step 1 --- Rebuild the analytical model
 
