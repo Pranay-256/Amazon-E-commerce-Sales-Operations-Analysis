@@ -240,7 +240,7 @@ Amazon-E-commerce-Sales-Operations-Analytics-Pipeline/
 │
 ├── python script/
 │   ├── fact_dim_creation.py
-│ 
+│   └── requirements.txt
 │
 ├── schemas/
 │   ├── powerbi_schema/
