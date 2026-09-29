@@ -172,12 +172,11 @@ It:
 After the SQL analysis, Python/Pandas was used to create an
 analytics-ready model.
 
-### ETL Scripts
+### ETL Script
 
 ``` text
-python scripts/
-├── 01.import_original_data.py
-└── 02.fact_dim_creation.py
+python script/
+├── fact_dim_creation.py
 ```
 
 ### Final Analytical Model
@@ -240,8 +239,8 @@ Amazon-E-commerce-Sales-Operations-Analytics-Pipeline/
 │       └── fact_sales.csv
 │
 ├── python scripts/
-│   ├── 01.import_original_data.py
-│   └── 02.fact_dim_creation.py
+│   ├── fact_dim_creation.py
+│ 
 │
 ├── schemas/
 │   ├── powerbi_schema/
@@ -267,24 +266,18 @@ Whenever the source database/data is changed:
 
 Run:
 
-``` text
-01.import_original_data.py
-```
-
-This reloads the original CSV data into the database.
-
-### Step 2 --- Rebuild the analytical model
+### Step 1 --- Rebuild the analytical model
 
 Run:
 
 ``` text
-02.fact_dim_creation.py
+fact_dim_creation.py
 ```
 
 This regenerates the fact and dimension tables and overwrites the Power
 BI-ready CSV files with the latest data.
 
-### Step 3 --- Refresh Power BI
+### Step 2 --- Refresh Power BI
 
 Open the Power BI project and perform:
 
@@ -300,11 +293,9 @@ insights.
 ``` text
 Change Source Data
        ↓
-01.import_original_data.py
+fact_dim_creation.py
        ↓
-02.fact_dim_creation.py
-       ↓
-Updated Fact/Dimension CSVs
+Updated Fact/Dimension Tables
        ↓
 Power BI Refresh
        ↓
