@@ -149,26 +149,6 @@ I answered **20 business questions** using SQL techniques such as **multi-table 
 19. **Shipping-provider performance**, including revenue, orders handled, average delivery time and order contribution.
 20. **Year-over-Year revenue growth percentage** for each recorded year.
 
-### Key SQL Insights
-
-| Question | Insight |
-|---|---|
-| **Q1 – Top products** | "Google Mechanical Keyboard" is the top seller; all top 10 products belong to **Electronics**. |
-| **Q2 – Revenue by category** | **Electronics** leads with **$19.80M**, contributing **76.75%** of total sales. |
-| **Q3 – AOV** | 11+ customers with 15+ orders have an AOV above $30,000. |
-| **Q5 – Inactive customers** | No registered customer is without an order. |
-| **Q6 – Top categories by state** | **Electronics** and **Home & Kitchen** rank #1 and #2 in every state. |
-| **Q7 – Least-selling category** | **Pet Supplies** is the least-selling category in most states. |
-| **Q9 – Low stock** | Most low-stock products sit in **Warehouse 1**, which also has the highest sales volume, so stockouts are driven by demand and need more frequent replenishment. |
-| **Q10 – Shipping delays** | No non-cancelled order was shipped more than 5 days after the order date. |
-| **Q11 – Payment status** | **54.36%** of payments are successful and **35.42%** are still pending. |
-| **Q13 – Profit margin** | **176+ products** have a profit margin above **60%**, strong candidates for promotion. |
-| **Q14 – Returns** | All top 10 most-returned products have a return rate above **10%**. |
-| **Q15 – Inactive sellers** | No seller has been inactive in the last 6 months. |
-| **Q16 – High returners** | **19 customers** fall in the "High Return Frequency" group (return rate ≥ 40%). |
-| **Q19 – Shipping providers** | Average shipping time is ~**2 days** for every provider; **FedEx** handles the most orders (**45.23%**) and generates the most sales. |
-| **Q20 – YoY growth** | **+3.38%** in 2021, **−6.77%** in 2022, **+1.14%** in 2023. |
-
 ---
 
 ## 3. Advanced SQL
