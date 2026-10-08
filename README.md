@@ -243,7 +243,7 @@ Amazon-E-commerce-Sales-Operations-Analytics-Pipeline/
 │   └── requirements.txt
 │
 ├── schemas/
-│   ├── powerbi_schema/
+│   ├── powerbi data model.png
 │   └── sql_database_schema.png
 │
 ├── sql analysis/
