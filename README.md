@@ -4,7 +4,7 @@ An end-to-end e-commerce analytics project covering **SQL analysis, data cleanin
 
  **Project Status:** Completed ✅
  
- **Part 1:** SQL + ETL + Power BI-ready data
+ **Part 1:** SQL + ETL + Power BI-ready data\
  **Part 2:** Power BI data model, DAX measures and 4-page interactive dashboard
 
  📄 A full write-up is available in [`Project_Report.pdf`](Project_Report.pdf) (business requirements, database & data model, SQL insights and dashboard analysis).
