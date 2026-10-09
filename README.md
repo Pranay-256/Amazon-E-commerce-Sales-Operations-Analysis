@@ -1,4 +1,4 @@
-# Amazon E-commerce Sales & Operations Analytics Pipeline
+# Amazon E-commerce Sales & Operations Analysis
 
 An end-to-end e-commerce analytics project covering **SQL analysis, data cleaning, Python/Pandas ETL, dimensional modeling and an interactive Power BI dashboard**.
 
